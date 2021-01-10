@@ -48,4 +48,4 @@ College Management app is a full stack MERN application with React-redux client 
 ---
 
 ### AUTHOR:
-Bachchu mandal- [GitHub](https://github.com/prats7)
+Bachchu mandal- [GitHub](https://github.com/bachchuhit/college_management_portal)
